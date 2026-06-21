@@ -1,25 +1,5 @@
 # Atividade Estruturada 4 - Lista de Exercícios - Filas Sequenciais
 
-## Orientações para a Atividade Estruturada 4
-
-### Título da Atividade Estruturada
-
-Lista de Exercícios - Filas sequenciais
-
-### Objetivo
-
-Pesquisar no material indicado e no conteúdo de aula e responder o questionário proposto.
-
-### Competências/Habilidades
-
-* Conceituar a estrutura de dados fila.
-* Representar a estrutura de dados fila por contiguidade (fila simples).
-* Compreender e implementar as operações com fila simples.
-* Desenvolver tarefas práticas com filas simples.
-
----
-
-# Desenvolvimento do Trabalho
 
 ## FILA SEQUENCIAL SIMPLES
 
